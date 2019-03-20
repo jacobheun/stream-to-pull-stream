@@ -1,4 +1,3 @@
-var pull = require('pull-stream/pull')
 var looper = require('looper')
 
 function destroy (stream) {
